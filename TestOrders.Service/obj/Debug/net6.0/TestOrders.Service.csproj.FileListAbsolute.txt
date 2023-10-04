@@ -1,0 +1,17 @@
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\bin\Debug\net6.0\TestOrders.Service.deps.json
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\bin\Debug\net6.0\TestOrders.Service.dll
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\bin\Debug\net6.0\TestOrders.Service.pdb
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\bin\Debug\net6.0\TestOrders.ObjectModel.dll
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\bin\Debug\net6.0\TestOrders.Persistance.dll
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\bin\Debug\net6.0\TestOrders.Persistance.pdb
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\bin\Debug\net6.0\TestOrders.ObjectModel.pdb
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\obj\Debug\net6.0\TestOrders.Service.csproj.AssemblyReference.cache
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\obj\Debug\net6.0\TestOrders.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\obj\Debug\net6.0\TestOrders.Service.AssemblyInfoInputs.cache
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\obj\Debug\net6.0\TestOrders.Service.AssemblyInfo.cs
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\obj\Debug\net6.0\TestOrders.Service.csproj.CoreCompileInputs.cache
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\obj\Debug\net6.0\TestOrders.Service.csproj.CopyComplete
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\obj\Debug\net6.0\TestOrders.Service.dll
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\obj\Debug\net6.0\refint\TestOrders.Service.dll
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\obj\Debug\net6.0\TestOrders.Service.pdb
+C:\Test\repo\Decentrilize\TestOrders\TestOrders.Service\obj\Debug\net6.0\ref\TestOrders.Service.dll

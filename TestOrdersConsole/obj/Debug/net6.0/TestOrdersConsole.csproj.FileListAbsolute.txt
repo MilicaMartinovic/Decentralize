@@ -1,0 +1,17 @@
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\bin\Debug\net6.0\TestOrdersConsole.exe
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\bin\Debug\net6.0\TestOrdersConsole.deps.json
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\bin\Debug\net6.0\TestOrdersConsole.runtimeconfig.json
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\bin\Debug\net6.0\TestOrdersConsole.dll
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\bin\Debug\net6.0\TestOrdersConsole.pdb
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\obj\Debug\net6.0\TestOrdersConsole.csproj.AssemblyReference.cache
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\obj\Debug\net6.0\TestOrdersConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\obj\Debug\net6.0\TestOrdersConsole.AssemblyInfoInputs.cache
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\obj\Debug\net6.0\TestOrdersConsole.AssemblyInfo.cs
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\obj\Debug\net6.0\TestOrdersConsole.csproj.CoreCompileInputs.cache
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\obj\Debug\net6.0\TestOrdersConsole.dll
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\obj\Debug\net6.0\refint\TestOrdersConsole.dll
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\obj\Debug\net6.0\TestOrdersConsole.pdb
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\obj\Debug\net6.0\TestOrdersConsole.genruntimeconfig.cache
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\obj\Debug\net6.0\ref\TestOrdersConsole.dll
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Test\repo\Decentrilize\TestOrders\TestOrdersConsole\obj\Debug\net6.0\TestOrdersConsole.csproj.CopyComplete

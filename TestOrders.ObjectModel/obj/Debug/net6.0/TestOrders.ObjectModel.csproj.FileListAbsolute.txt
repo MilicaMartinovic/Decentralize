@@ -1,0 +1,12 @@
+C:\test\repo\Decentrilize\TestOrders\TestOrders.ObjectModel\bin\Debug\net6.0\TestOrders.ObjectModel.deps.json
+C:\test\repo\Decentrilize\TestOrders\TestOrders.ObjectModel\bin\Debug\net6.0\TestOrders.ObjectModel.dll
+C:\test\repo\Decentrilize\TestOrders\TestOrders.ObjectModel\bin\Debug\net6.0\TestOrders.ObjectModel.pdb
+C:\test\repo\Decentrilize\TestOrders\TestOrders.ObjectModel\obj\Debug\net6.0\TestOrders.ObjectModel.csproj.AssemblyReference.cache
+C:\test\repo\Decentrilize\TestOrders\TestOrders.ObjectModel\obj\Debug\net6.0\TestOrders.ObjectModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\repo\Decentrilize\TestOrders\TestOrders.ObjectModel\obj\Debug\net6.0\TestOrders.ObjectModel.AssemblyInfoInputs.cache
+C:\test\repo\Decentrilize\TestOrders\TestOrders.ObjectModel\obj\Debug\net6.0\TestOrders.ObjectModel.AssemblyInfo.cs
+C:\test\repo\Decentrilize\TestOrders\TestOrders.ObjectModel\obj\Debug\net6.0\TestOrders.ObjectModel.csproj.CoreCompileInputs.cache
+C:\test\repo\Decentrilize\TestOrders\TestOrders.ObjectModel\obj\Debug\net6.0\TestOrders.ObjectModel.dll
+C:\test\repo\Decentrilize\TestOrders\TestOrders.ObjectModel\obj\Debug\net6.0\refint\TestOrders.ObjectModel.dll
+C:\test\repo\Decentrilize\TestOrders\TestOrders.ObjectModel\obj\Debug\net6.0\TestOrders.ObjectModel.pdb
+C:\test\repo\Decentrilize\TestOrders\TestOrders.ObjectModel\obj\Debug\net6.0\ref\TestOrders.ObjectModel.dll

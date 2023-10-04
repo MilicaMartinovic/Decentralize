@@ -1,0 +1,17 @@
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\bin\Debug\net6.0\TestOrders.Persistance.deps.json
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\bin\Debug\net6.0\TestOrders.Persistance.runtimeconfig.json
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\bin\Debug\net6.0\TestOrders.Persistance.dll
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\bin\Debug\net6.0\TestOrders.Persistance.pdb
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\bin\Debug\net6.0\TestOrders.ObjectModel.dll
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\bin\Debug\net6.0\TestOrders.ObjectModel.pdb
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\obj\Debug\net6.0\TestOrders.Persistance.csproj.AssemblyReference.cache
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\obj\Debug\net6.0\TestOrders.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\obj\Debug\net6.0\TestOrders.Persistance.AssemblyInfoInputs.cache
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\obj\Debug\net6.0\TestOrders.Persistance.AssemblyInfo.cs
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\obj\Debug\net6.0\TestOrders.Persistance.csproj.CoreCompileInputs.cache
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\obj\Debug\net6.0\TestOrders.Persistance.csproj.CopyComplete
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\obj\Debug\net6.0\TestOrders.Persistance.dll
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\obj\Debug\net6.0\refint\TestOrders.Persistance.dll
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\obj\Debug\net6.0\TestOrders.Persistance.pdb
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\obj\Debug\net6.0\TestOrders.Persistance.genruntimeconfig.cache
+C:\test\repo\Decentrilize\TestOrders\TestOrders.Persistance\obj\Debug\net6.0\ref\TestOrders.Persistance.dll
